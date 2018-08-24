@@ -1,2 +1,21 @@
-# better-scroll
-封装better-scroll，实现左右滑动翻页与导航栏的相互同步切换效果，及，上拉加载更多，下拉刷新功能
+# tab
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
