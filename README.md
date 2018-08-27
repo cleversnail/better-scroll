@@ -5,6 +5,7 @@
 ## Build Setup
 
 ``` bash
+#看过（黄轶大大）的当better-scroll 遇见vue，部分内容借鉴><!
 # install dependencies
 npm install
 
